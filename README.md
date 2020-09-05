@@ -13,4 +13,6 @@ and create components folder and place the jsx files present in the repository
 
 # go to package.json of client and type "proxy":"http://localhost:3100"
 
+#In CMD Prompt run command npm run dev to open client and server in single command prompt
+
 
