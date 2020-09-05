@@ -1,18 +1,25 @@
-# Express-Assign
+# Express-assignment
 
-# create a React App by command npx create react app client
+# Create a React App by command npx create-react-app client
 
-# once the react app is created successfully CD to client by running command
-Cd client in command prompt and type npm start.
+# Once the react app is created successfully CD(Change Directory) to client
 
-# CD to client from CMD Prompt and run npm i axios react-router-dom --save
+Commands:
+cd client hit Enter > and type npm start hit Enter.
 
-# once dependencies are installed go to src folder of client
+# Open another command prompt go to the directory and execute the following commands
 
-and create components folder and place the jsx files present in the repository
+cd to client hit enter and type npm i axios react-router-dom --save hit Enter.
 
-# go to package.json of client and type "proxy":"http://localhost:3100"
+# Once dependencies are installed go to src folder of client
 
-#In CMD Prompt run command npm run dev to open client and server in single command prompt
+# Create components folder and place the jsx files present in the repository
+
+# Go to package.json of client and type "proxy":"http://localhost:3100"
+
+#In CMD Prompt run command following commands
+ npm run dev to open client and server in single command prompt
+
+#
 
 
