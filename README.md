@@ -17,9 +17,9 @@ cd to client hit enter and type npm i axios react-router-dom --save hit Enter.
 
 # Go to package.json of client and type "proxy":"http://localhost:3100"
 
-#In CMD Prompt run command following commands
+# In CMD Prompt run  following commands
  npm run dev to open client and server in single command prompt
 
-#
+
 
 
