@@ -15,9 +15,9 @@
 # Once the react app is created successfully CD(Change Directory) to client
 
 Commands:
-cd client hit Enter > and type npm start hit Enter.
+cd client hit Enter
 
-# Open another command prompt go to the directory and execute the following commands
+#  execute the following commands
 
 cd to client hit enter and type npm i axios react-router-dom --save hit Enter.
 
